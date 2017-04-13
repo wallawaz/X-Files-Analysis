@@ -1,0 +1,4965 @@
+(dp0
+I1
+(lp1
+(dp2
+S'title'
+p3
+VPilot (The X-Files)
+p4
+sS'href'
+p5
+V/wiki/Pilot_(The_X-Files)
+p6
+sS'written_by'
+p7
+VChris Carter
+p8
+sS'directed_by'
+p9
+VRobert Mandel
+p10
+sS'monster_of_the_week'
+p11
+I00
+sS'nielson_rating'
+p12
+V7.9
+p13
+sS'viewers'
+p14
+S'7.4'
+p15
+sS'running_time'
+p16
+V48 minutes
+p17
+sa(dp18
+g3
+VDeep Throat (The X-Files episode)
+p19
+sg5
+V/wiki/Deep_Throat_(The_X-Files_episode)
+p20
+sg7
+VChris Carter
+p21
+sg9
+VDaniel Sackheim
+p22
+sg11
+I00
+sg12
+V7.3
+p23
+sg14
+S'6.9'
+p24
+sg16
+V45 minutes
+p25
+sa(dp26
+g3
+VSqueeze (The X-Files)
+p27
+sg5
+V/wiki/Squeeze_(The_X-Files)
+p28
+sg7
+VGlen Morgan\u000aJames Wong
+p29
+sg9
+VHarry Longstreet
+p30
+sg11
+I01
+sg12
+V7.2
+p31
+sg14
+S'6.8'
+p32
+sg16
+V42 minutes
+p33
+sa(dp34
+g3
+VConduit (The X-Files)
+p35
+sg5
+V/wiki/Conduit_(The_X-Files)
+p36
+sg7
+VAlex Gansa\u000aHoward Gordon
+p37
+sg9
+VDaniel Sackheim
+p38
+sg11
+I00
+sg12
+V6.3
+p39
+sg14
+S'5.9'
+p40
+sg16
+V44 minutes
+p41
+sa(dp42
+g3
+VThe Jersey Devil (The X-Files)
+p43
+sg5
+V/wiki/The_Jersey_Devil_(The_X-Files)
+p44
+sg7
+VChris Carter
+p45
+sg9
+VJoe Napolitano
+p46
+sg11
+I01
+sg12
+V6.6
+p47
+sg14
+S'6.2'
+p48
+sg16
+V44 minutes
+p49
+sa(dp50
+g3
+VShadows (The X-Files)
+p51
+sg5
+V/wiki/Shadows_(The_X-Files)
+p52
+sg7
+VGlen Morgan\u000aJames Wong
+p53
+sg9
+VMichael Lange
+p54
+sg11
+I01
+sg12
+V5.9
+p55
+sg14
+S'5.6'
+p56
+sg16
+V45 minutes
+p57
+sa(dp58
+g3
+VGhost in the Machine (The X-Files)
+p59
+sg5
+V/wiki/Ghost_in_the_Machine_(The_X-Files)
+p60
+sg7
+VAlex Gansa\u000aHoward Gordon
+p61
+sg9
+VJerrold Freedman
+p62
+sg11
+I01
+sg12
+V5.9
+p63
+sg14
+S'5.6'
+p64
+sg16
+V45 minutes
+p65
+sa(dp66
+g3
+VIce (The X-Files)
+p67
+sg5
+V/wiki/Ice_(The_X-Files)
+p68
+sg7
+VGlen Morgan\u000aJames Wong
+p69
+sg9
+VDavid Nutter
+p70
+sg11
+I00
+sg12
+V6.6
+p71
+sg14
+S'10'
+p72
+sg16
+V45 minutes
+p73
+sa(dp74
+g3
+VSpace (The X-Files)
+p75
+sg5
+V/wiki/Space_(The_X-Files)
+p76
+sg7
+VChris Carter
+p77
+sg9
+VWilliam Graham
+p78
+sg11
+I01
+sg12
+V6.5
+p79
+sg14
+S'6.1'
+p80
+sg16
+V46 minutes
+p81
+sa(dp82
+g3
+VFallen Angel (The X-Files)
+p83
+sg5
+V/wiki/Fallen_Angel_(The_X-Files)
+p84
+sg7
+VHoward Gordon\u000aAlex Gansa
+p85
+sg9
+VLarry Shaw
+p86
+sg11
+I00
+sg12
+V5.4
+p87
+sg14
+S'5.1'
+p88
+sg16
+V45 minutes
+p89
+sa(dp90
+g3
+VEve (The X-Files)
+p91
+sg5
+V/wiki/Eve_(The_X-Files)
+p92
+sg7
+VKenneth Biller\u000aChris Brancato
+p93
+sg9
+VFred Gerber
+p94
+sg11
+I01
+sg12
+V6.8
+p95
+sg14
+S'6.4'
+p96
+sg16
+V45 minutes
+p97
+sa(dp98
+g3
+VFire (The X-Files)
+p99
+sg5
+V/wiki/Fire_(The_X-Files)
+p100
+sg7
+VChris Carter
+p101
+sg9
+VLarry Shaw
+p102
+sg11
+I01
+sg12
+V6.8
+p103
+sg14
+S'6.4'
+p104
+sg16
+V45 minutes
+p105
+sa(dp106
+g3
+VBeyond the Sea (The X-Files)
+p107
+sg5
+V/wiki/Beyond_the_Sea_(The_X-Files)
+p108
+sg7
+VGlen Morgan\u000aJames Wong
+p109
+sg9
+VDavid Nutter
+p110
+sg11
+I01
+sg12
+V.
+p111
+sg14
+S'6.2'
+p112
+sg16
+V45 minutes
+p113
+sa(dp114
+g3
+VGender Bender (The X-Files)
+p115
+sg5
+V/wiki/Gender_Bender_(The_X-Files)
+p116
+sg7
+VLarry Barber\u000aPaul Barber
+p117
+sg9
+VRob Bowman
+p118
+sg11
+I01
+sg12
+V7.2
+p119
+sg14
+S'6.8'
+p120
+sg16
+V44 minutes
+p121
+sa(dp122
+g3
+VLazarus (The X-Files)
+p123
+sg5
+V/wiki/Lazarus_(The_X-Files)
+p124
+sg7
+VAlex Gansa\u000aHoward Gordon
+p125
+sg9
+VDavid Nutter
+p126
+sg11
+I01
+sg12
+V7.6
+p127
+sg14
+S'7.2'
+p128
+sg16
+V45 minutes
+p129
+sa(dp130
+g3
+VYoung at Heart (The X-Files)
+p131
+sg5
+V/wiki/Young_at_Heart_(The_X-Files)
+p132
+sg7
+VChris Carter\u000aScott Kaufer
+p133
+sg9
+VMichael Lange
+p134
+sg11
+I01
+sg12
+V7.2
+p135
+sg14
+S'6.8'
+p136
+sg16
+V45 minutes
+p137
+sa(dp138
+g3
+VE.B.E.
+p139
+sg5
+V/wiki/E.B.E.
+p140
+sg7
+VGlen Morgan\u000aJames Wong
+p141
+sg9
+VWilliam Graham
+p142
+sg11
+I00
+sg12
+V6.2
+p143
+sg14
+S'5.8'
+p144
+sg16
+V44 minutes
+p145
+sa(dp146
+g3
+VMiracle Man (The X-Files)
+p147
+sg5
+V/wiki/Miracle_Man_(The_X-Files)
+p148
+sg7
+VChris Carter\u000aHoward Gordon
+p149
+sg9
+VMichael Lange
+p150
+sg11
+I01
+sg12
+V7.5
+p151
+sg14
+S'7.1'
+p152
+sg16
+V45 minutes
+p153
+sa(dp154
+g3
+VShapes (The X-Files)
+p155
+sg5
+V/wiki/Shapes_(The_X-Files)
+p156
+sg7
+VMarilyn Osborn
+p157
+sg9
+VDavid Nutter
+p158
+sg11
+I01
+sg12
+V7.6
+p159
+sg14
+S'7.2'
+p160
+sg16
+V45 minutes
+p161
+sa(dp162
+g3
+VDarkness Falls (The X-Files)
+p163
+sg5
+V/wiki/Darkness_Falls_(The_X-Files)
+p164
+sg7
+VChris Carter
+p165
+sg9
+VJoe Napolitano
+p166
+sg11
+I01
+sg12
+V8.0
+p167
+sg14
+S'7.5'
+p168
+sg16
+V43 minutes
+p169
+sa(dp170
+g3
+VTooms
+p171
+sg5
+V/wiki/Tooms
+p172
+sg7
+VGlen Morgan\u000aJames Wong
+p173
+sg9
+VDavid Nutter
+p174
+sg11
+I01
+sg12
+V8.6
+p175
+sg14
+S'8.1'
+p176
+sg16
+V45 minutes
+p177
+sa(dp178
+g3
+VBorn Again (The X-Files)
+p179
+sg5
+V/wiki/Born_Again_(The_X-Files)
+p180
+sg7
+VAlex Gansa\u000aHoward Gordon
+p181
+sg9
+VJerrold Freedman
+p182
+sg11
+I01
+sg12
+V8.2
+p183
+sg14
+S'7.7'
+p184
+sg16
+V44 minutes
+p185
+sa(dp186
+g3
+VRoland (The X-Files)
+p187
+sg5
+V/wiki/Roland_(The_X-Files)
+p188
+sg7
+VChris Ruppenthal
+p189
+sg9
+VDavid Nutter
+p190
+sg11
+I01
+sg12
+V7.9
+p191
+sg14
+S'7.4'
+p192
+sg16
+V45 minutes
+p193
+sa(dp194
+g3
+VThe Erlenmeyer Flask
+p195
+sg5
+V/wiki/The_Erlenmeyer_Flask
+p196
+sg7
+VChris Carter
+p197
+sg9
+VR. W. Goodwin
+p198
+sg11
+I00
+sg12
+V8.8
+p199
+sg14
+S'8.3'
+p200
+sg16
+V45 minutes
+p201
+sasI2
+(lp202
+(dp203
+g3
+VLittle Green Men (The X-Files)
+p204
+sg5
+V/wiki/Little_Green_Men_(The_X-Files)
+p205
+sg7
+VGlen Morgan\u000aJames Wong
+p206
+sg9
+VDavid Nutter
+p207
+sg11
+I00
+sg12
+V10.3
+p208
+sg14
+S'9.8'
+p209
+sg16
+V45 minutes
+p210
+sa(dp211
+g3
+VThe Host (The X-Files)
+p212
+sg5
+V/wiki/The_Host_(The_X-Files)
+p213
+sg7
+VChris Carter
+p214
+sg9
+VDaniel Sackheim
+p215
+sg11
+I01
+sg12
+V9.8
+p216
+sg14
+S'9.3'
+p217
+sg16
+V45 minutes
+p218
+sa(dp219
+g3
+VBlood (The X-Files)
+p220
+sg5
+V/wiki/Blood_(The_X-Files)
+p221
+sg7
+Nsg9
+VDavid Nutter
+p222
+sg11
+I01
+sg12
+V9.8
+p223
+sg14
+S'8.7'
+p224
+sg16
+V45 minutes
+p225
+sa(dp226
+g3
+VSleepless (The X-Files)
+p227
+sg5
+V/wiki/Sleepless_(The_X-Files)
+p228
+sg7
+VHoward Gordon
+p229
+sg9
+VRob Bowman
+p230
+sg11
+I00
+sg12
+V8.6
+p231
+sg14
+S'8.2'
+p232
+sg16
+V44 minutes
+p233
+sa(dp234
+g3
+VDuane Barry
+p235
+sg5
+V/wiki/Duane_Barry
+p236
+sg7
+VChris Carter
+p237
+sg9
+VChris Carter
+p238
+sg11
+I00
+sg12
+V8.9
+p239
+sg14
+S'8.5'
+p240
+sg16
+V45 minutes
+p241
+sa(dp242
+g3
+VAscension (The X-Files)
+p243
+sg5
+V/wiki/Ascension_(The_X-Files)
+p244
+sg7
+VPaul Brown
+p245
+sg9
+VMichael Lange
+p246
+sg11
+I00
+sg12
+V9.6
+p247
+sg14
+S'9.2'
+p248
+sg16
+V45 minutes
+p249
+sa(dp250
+g3
+V3 (The X-Files)
+p251
+sg5
+V/wiki/3_(The_X-Files)
+p252
+sg7
+VChris Ruppenthal\u000aGlen Morgan\u000aJames Wong
+p253
+sg9
+VDavid Nutter
+p254
+sg11
+I01
+sg12
+V9.4
+p255
+sg14
+S'9'
+p256
+sg16
+V45 minutes
+p257
+sa(dp258
+g3
+VOne Breath (The X-Files)
+p259
+sg5
+V/wiki/One_Breath_(The_X-Files)
+p260
+sg7
+VGlen Morgan\u000aJames Wong
+p261
+sg9
+VR. W. Goodwin
+p262
+sg11
+I00
+sg12
+V9.5
+p263
+sg14
+S'9.1'
+p264
+sg16
+V45 minutes
+p265
+sa(dp266
+g3
+VFirewalker (The X-Files)
+p267
+sg5
+V/wiki/Firewalker_(The_X-Files)
+p268
+sg7
+VHoward Gordon
+p269
+sg9
+VDavid Nutter
+p270
+sg11
+I01
+sg12
+V9
+p271
+sg14
+S'8.6'
+p272
+sg16
+V45 minutes
+p273
+sa(dp274
+g3
+VRed Museum
+p275
+sg5
+V/wiki/Red_Museum
+p276
+sg7
+VChris Carter
+p277
+sg9
+VWin Phelps
+p278
+sg11
+I01
+sg12
+V10.4
+p279
+sg14
+S'9.9'
+p280
+sg16
+V45 minutes
+p281
+sa(dp282
+g3
+VExcelsis Dei
+p283
+sg5
+V/wiki/Excelsis_Dei
+p284
+sg7
+VPaul Brown
+p285
+sg9
+VStephen Surjik
+p286
+sg11
+I01
+sg12
+V8.9
+p287
+sg14
+S'8.5'
+p288
+sg16
+V44 minutes
+p289
+sa(dp290
+g3
+VAubrey (The X-Files)
+p291
+sg5
+V/wiki/Aubrey_(The_X-Files)
+p292
+sg7
+VSara B. Charno
+p293
+sg9
+VRob Bowman
+p294
+sg11
+I01
+sg12
+V10.2
+p295
+sg14
+S'9.7'
+p296
+sg16
+V45 minutes
+p297
+sa(dp298
+g3
+VIrresistible (The X-Files)
+p299
+sg5
+V/wiki/Irresistible_(The_X-Files)
+p300
+sg7
+VChris Carter
+p301
+sg9
+VDavid Nutter
+p302
+sg11
+I01
+sg12
+V9.2
+p303
+sg14
+S'8.8'
+p304
+sg16
+V45 minutes
+p305
+sa(dp306
+g3
+VDie Hand Die Verletzt
+p307
+sg5
+V/wiki/Die_Hand_Die_Verletzt
+p308
+sg7
+VGlen Morgan\u000aJames Wong
+p309
+sg9
+VKim Manners
+p310
+sg11
+I01
+sg12
+V10.7
+p311
+sg14
+S'10.2'
+p312
+sg16
+V45 minutes
+p313
+sa(dp314
+g3
+VFresh Bones
+p315
+sg5
+V/wiki/Fresh_Bones
+p316
+sg7
+VHoward Gordon
+p317
+sg9
+VRob Bowman
+p318
+sg11
+I01
+sg12
+V11.3
+p319
+sg14
+S'10.8'
+p320
+sg16
+V45 minutes
+p321
+sa(dp322
+g3
+VColony (The X-Files)
+p323
+sg5
+V/wiki/Colony_(The_X-Files)
+p324
+sg7
+Nsg9
+VNick Marck
+p325
+sg11
+I00
+sg12
+V10.3
+p326
+sg14
+S'9.8'
+p327
+sg16
+V44 minutes
+p328
+sa(dp329
+g3
+VEnd Game (The X-Files)
+p330
+sg5
+V/wiki/End_Game_(The_X-Files)
+p331
+sg7
+VFrank Spotnitz
+p332
+sg9
+VRob Bowman
+p333
+sg11
+I00
+sg12
+V11.2
+p334
+sg14
+S'10.7'
+p335
+sg16
+V45 minutes
+p336
+sa(dp337
+g3
+VFearful Symmetry (The X-Files)
+p338
+sg5
+V/wiki/Fearful_Symmetry_(The_X-Files)
+p339
+sg7
+VSteve De Jarnatt
+p340
+sg9
+VJames Whitmore, Jr.
+p341
+sg11
+I01
+sg12
+V10.1
+p342
+sg14
+S'9.6'
+p343
+sg16
+V44 minutes
+p344
+sa(dp345
+g3
+VDød Kalm
+p346
+sg5
+V/wiki/D%C3%B8d_Kalm
+p347
+sg7
+Nsg9
+VRob Bowman
+p348
+sg11
+I01
+sg12
+V10.7
+p349
+sg14
+S'10.2'
+p350
+sg16
+V45 minutes
+p351
+sa(dp352
+g3
+VHumbug (The X-Files)
+p353
+sg5
+V/wiki/Humbug_(The_X-Files)
+p354
+sg7
+VDarin Morgan
+p355
+sg9
+VKim Manners
+p356
+sg11
+I01
+sg12
+V10.3
+p357
+sg14
+S'9.8'
+p358
+sg16
+V45 minutes
+p359
+sa(dp360
+g3
+VThe Calusari
+p361
+sg5
+V/wiki/The_Calusari
+p362
+sg7
+VSara Charno
+p363
+sg9
+VMike Vejar
+p364
+sg11
+I01
+sg12
+V8.3
+p365
+sg14
+S'7.9'
+p366
+sg16
+V44 minutes
+p367
+sa(dp368
+g3
+VF. Emasculata
+p369
+sg5
+V/wiki/F._Emasculata
+p370
+sg7
+VChris Carter\u000aHoward Gordon
+p371
+sg9
+VRob Bowman
+p372
+sg11
+I01
+sg12
+V8.9
+p373
+sg14
+S'8.5'
+p374
+sg16
+V45 minutes
+p375
+sa(dp376
+g3
+VSoft Light (The X-Files)
+p377
+sg5
+V/wiki/Soft_Light_(The_X-Files)
+p378
+sg7
+VVince Gilligan
+p379
+sg9
+VJames A. Contner
+p380
+sg11
+I01
+sg12
+V8.5
+p381
+sg14
+S'8.1'
+p382
+sg16
+V44 minutes
+p383
+sa(dp384
+g3
+VOur Town (The X-Files)
+p385
+sg5
+V/wiki/Our_Town_(The_X-Files)
+p386
+sg7
+VFrank Spotnitz
+p387
+sg9
+VRob Bowman
+p388
+sg11
+I01
+sg12
+V9.4
+p389
+sg14
+S'9.0'
+p390
+sg16
+V44 minutes
+p391
+sa(dp392
+g3
+VAnasazi (The X-Files)
+p393
+sg5
+V/wiki/Anasazi_(The_X-Files)
+p394
+sg7
+Nsg9
+VR. W. Goodwin
+p395
+sg11
+I00
+sg12
+V10.1
+p396
+sg14
+S'9.6'
+p397
+sg16
+V45 minutes
+p398
+sasI3
+(lp399
+(dp400
+g3
+VThe Blessing Way (The X-Files)
+p401
+sg5
+V/wiki/The_Blessing_Way_(The_X-Files)
+p402
+sg7
+VChris Carter
+p403
+sg9
+VR. W. Goodwin
+p404
+sg11
+I00
+sg12
+V12.3
+p405
+sg14
+S'19.94'
+p406
+sg16
+V45 minutes
+p407
+sa(dp408
+g3
+VPaper Clip
+p409
+sg5
+V/wiki/Paper_Clip
+p410
+sg7
+VChris Carter
+p411
+sg9
+VRob Bowman
+p412
+sg11
+I00
+sg12
+V11.1
+p413
+sg14
+S'17.2'
+p414
+sg16
+V45 minutes
+p415
+sa(dp416
+g3
+VD.P.O.
+p417
+sg5
+V/wiki/D.P.O.
+p418
+sg7
+VHoward Gordon
+p419
+sg9
+VKim Manners
+p420
+sg11
+I01
+sg12
+V10.9
+p421
+sg14
+S'15.57'
+p422
+sg16
+V44 minutes
+p423
+sa(dp424
+g3
+VClyde Bruckman's Final Repose
+p425
+sg5
+V/wiki/Clyde_Bruckman%27s_Final_Repose
+p426
+sg7
+VDarin Morgan
+p427
+sg9
+VDavid Nutter
+p428
+sg11
+I01
+sg12
+V10.2
+p429
+sg14
+S'15.38'
+p430
+sg16
+V45 minutes[2]
+p431
+sa(dp432
+g3
+VThe List (The X-Files)
+p433
+sg5
+V/wiki/The_List_(The_X-Files)
+p434
+sg7
+VChris Carter
+p435
+sg9
+VChris Carter
+p436
+sg11
+I01
+sg12
+V10.8
+p437
+sg14
+S'16.72'
+p438
+sg16
+V45 minutes
+p439
+sa(dp440
+g3
+V2Shy
+p441
+sg5
+V/wiki/2Shy
+p442
+sg7
+VJeff Vlaming
+p443
+sg9
+VDavid Nutter
+p444
+sg11
+I01
+sg12
+V10.1
+p445
+sg14
+S'15'
+p446
+sg16
+V45 minutes
+p447
+sa(dp448
+g3
+VThe Walk (The X-Files)
+p449
+sg5
+V/wiki/The_Walk_(The_X-Files)
+p450
+sg7
+VJohn Shiban
+p451
+sg9
+VRob Bowman
+p452
+sg11
+I01
+sg12
+V10.4
+p453
+sg14
+S'15.91'
+p454
+sg16
+V45 minutes
+p455
+sa(dp456
+g3
+VOubliette (The X-Files)
+p457
+sg5
+V/wiki/Oubliette_(The_X-Files)
+p458
+sg7
+VCharles Grant Craig
+p459
+sg9
+VKim Manners
+p460
+sg11
+I01
+sg12
+V10.5
+p461
+sg14
+S'15.90'
+p462
+sg16
+V45 minutes[2]
+p463
+sa(dp464
+g3
+VNisei (The X-Files)
+p465
+sg5
+V/wiki/Nisei_(The_X-Files)
+p466
+sg7
+VChris Carter\u000aFrank Spotnitz\u000aHoward Gordon
+p467
+sg9
+VDavid Nutter
+p468
+sg11
+I00
+sg12
+V9.8
+p469
+sg14
+S'16.36'
+p470
+sg16
+V44 minutes
+p471
+sa(dp472
+g3
+V731 (The X-Files)
+p473
+sg5
+V/wiki/731_(The_X-Files)
+p474
+sg7
+VFrank Spotnitz
+p475
+sg9
+VRob Bowman
+p476
+sg11
+I00
+sg12
+V12
+p477
+sg14
+S'17.68'
+p478
+sg16
+V45 minutes
+p479
+sa(dp480
+g3
+VRevelations (The X-Files)
+p481
+sg5
+V/wiki/Revelations_(The_X-Files)
+p482
+sg7
+VKim Newton
+p483
+sg9
+VDavid Nutter
+p484
+sg11
+I01
+sg12
+V10
+p485
+sg14
+S'15.25'
+p486
+sg16
+V44 minutes
+p487
+sa(dp488
+g3
+VWar of the Coprophages
+p489
+sg5
+V/wiki/War_of_the_Coprophages
+p490
+sg7
+VDarin Morgan
+p491
+sg9
+VKim Manners
+p492
+sg11
+I01
+sg12
+V10.1
+p493
+sg14
+S'16.32'
+p494
+sg16
+V44 minutes
+p495
+sa(dp496
+g3
+VSyzygy (The X-Files)
+p497
+sg5
+V/wiki/Syzygy_(The_X-Files)
+p498
+sg7
+VChris Carter
+p499
+sg9
+VRob Bowman
+p500
+sg11
+I01
+sg12
+V10.8
+p501
+sg14
+S'16.04'
+p502
+sg16
+V44 minutes
+p503
+sa(dp504
+g3
+VGrotesque (The X-Files)
+p505
+sg5
+V/wiki/Grotesque_(The_X-Files)
+p506
+sg7
+VHoward Gordon
+p507
+sg9
+VKim Manners
+p508
+sg11
+I01
+sg12
+V11.6
+p509
+sg14
+S'18.32'
+p510
+sg16
+V44 minutes
+p511
+sa(dp512
+g3
+VPiper Maru
+p513
+sg5
+V/wiki/Piper_Maru
+p514
+sg7
+VFrank Spotnitz\u000aChris Carter
+p515
+sg9
+VRob Bowman
+p516
+sg11
+I00
+sg12
+V10.6
+p517
+sg14
+S'16.44'
+p518
+sg16
+V44 minutes
+p519
+sa(dp520
+g3
+VApocrypha (The X-Files)
+p521
+sg5
+V/wiki/Apocrypha_(The_X-Files)
+p522
+sg7
+VFrank Spotnitz\u000aChris Carter
+p523
+sg9
+VKim Manners
+p524
+sg11
+I00
+sg12
+V10.8
+p525
+sg14
+S'16.71'
+p526
+sg16
+V44 minutes
+p527
+sa(dp528
+g3
+VPusher (The X-Files)
+p529
+sg5
+V/wiki/Pusher_(The_X-Files)
+p530
+sg7
+VVince Gilligan
+p531
+sg9
+VRob Bowman
+p532
+sg11
+I01
+sg12
+V10.8
+p533
+sg14
+S'16.2'
+p534
+sg16
+V44 minutes
+p535
+sa(dp536
+g3
+VTeso Dos Bichos
+p537
+sg5
+V/wiki/Teso_Dos_Bichos
+p538
+sg7
+VJohn Shiban
+p539
+sg9
+VKim Manners
+p540
+sg11
+I01
+sg12
+V10.7
+p541
+sg14
+S'17.38'
+p542
+sg16
+V43 minutes
+p543
+sa(dp544
+g3
+VHell Money
+p545
+sg5
+V/wiki/Hell_Money
+p546
+sg7
+VJeffrey Vlaming
+p547
+sg9
+VTucker Gates
+p548
+sg11
+I01
+sg12
+V9.9
+p549
+sg14
+S'14.86'
+p550
+sg16
+V44 minutes
+p551
+sa(dp552
+g3
+VJose Chung's From Outer Space
+p553
+sg5
+V/wiki/Jose_Chung%27s_From_Outer_Space
+p554
+sg7
+VDarin Morgan
+p555
+sg9
+VRob Bowman
+p556
+sg11
+I01
+sg12
+V10.5
+p557
+sg14
+S'16.08'
+p558
+sg16
+V44 minutes
+p559
+sa(dp560
+g3
+VAvatar (The X-Files)
+p561
+sg5
+V/wiki/Avatar_(The_X-Files)
+p562
+sg7
+Nsg9
+VJames Charleston
+p563
+sg11
+I01
+sg12
+V9.3
+p564
+sg14
+S'14.62'
+p565
+sg16
+V44 minutes
+p566
+sa(dp567
+g3
+VQuagmire (The X-Files)
+p568
+sg5
+V/wiki/Quagmire_(The_X-Files)
+p569
+sg7
+VKim Newton
+p570
+sg9
+VKim Manners
+p571
+sg11
+I01
+sg12
+V10.2
+p572
+sg14
+S'16'
+p573
+sg16
+V42 minutes
+p574
+sa(dp575
+g3
+VWetwired
+p576
+sg5
+V/wiki/Wetwired
+p577
+sg7
+VMat Beck
+p578
+sg9
+VRob Bowman
+p579
+sg11
+I01
+sg12
+V9.7
+p580
+sg14
+S'14.48'
+p581
+sg16
+V44 minutes
+p582
+sa(dp583
+g3
+VTalitha Cumi (The X-Files)
+p584
+sg5
+V/wiki/Talitha_Cumi_(The_X-Files)
+p585
+sg7
+Nsg9
+VR. W. Goodwin
+p586
+sg11
+I00
+sg12
+V11.2
+p587
+sg14
+S'17.86'
+p588
+sg16
+V44 minutes
+p589
+sasI4
+(lp590
+(dp591
+g3
+VHerrenvolk (The X-Files)
+p592
+sg5
+V/wiki/Herrenvolk_(The_X-Files)
+p593
+sg7
+VChris Carter
+p594
+sg9
+VR. W. Goodwin
+p595
+sg11
+I00
+sg12
+V13.2
+p596
+sg14
+S'21.11'
+p597
+sg16
+V44 minutes
+p598
+sa(dp599
+g3
+VHome (The X-Files)
+p600
+sg5
+V/wiki/Home_(The_X-Files)
+p601
+sg7
+VGlen Morgan\u000aJames Wong
+p602
+sg9
+VKim Manners
+p603
+sg11
+I01
+sg12
+V11.9.
+p604
+sg14
+S'18.85'
+p605
+sg16
+V44 minutes[2]
+p606
+sa(dp607
+g3
+VTeliko
+p608
+sg5
+V/wiki/Teliko
+p609
+sg7
+VHoward Gordon
+p610
+sg9
+VJames Charleston
+p611
+sg11
+I01
+sg12
+V11.3
+p612
+sg14
+S'18.01'
+p613
+sg16
+V43 minutes[2]
+p614
+sa(dp615
+g3
+VUnruhe
+p616
+sg5
+V/wiki/Unruhe
+p617
+sg7
+VVince Gilligan
+p618
+sg9
+VRob Bowman
+p619
+sg11
+I01
+sg12
+V11.7
+p620
+sg14
+S'19.10'
+p621
+sg16
+V44 minutes
+p622
+sa(dp623
+g3
+VThe Field Where I Died
+p624
+sg5
+V/wiki/The_Field_Where_I_Died
+p625
+sg7
+VGlen Morgan\u000aJames Wong
+p626
+sg9
+VRob Bowman
+p627
+sg11
+I01
+sg12
+V12.3
+p628
+sg14
+S'19.85'
+p629
+sg16
+V44 minutes
+p630
+sa(dp631
+g3
+VSanguinarium
+p632
+sg5
+V/wiki/Sanguinarium
+p633
+sg7
+VVivian Mayhew\u000aValerie Mayhew
+p634
+sg9
+VKim Manners
+p635
+sg11
+I01
+sg12
+V11.1
+p636
+sg14
+S'19.85'
+p637
+sg16
+V44 minutes
+p638
+sa(dp639
+g3
+VMusings of a Cigarette Smoking Man
+p640
+sg5
+V/wiki/Musings_of_a_Cigarette_Smoking_Man
+p641
+sg7
+VGlen Morgan
+p642
+sg9
+VJames Wong
+p643
+sg11
+I00
+sg12
+V10.7
+p644
+sg14
+S'17.09'
+p645
+sg16
+V44 minutes
+p646
+sa(dp647
+g3
+VTunguska (The X-Files)
+p648
+sg5
+V/wiki/Tunguska_(The_X-Files)
+p649
+sg7
+VChris Carter\u000aFrank Spotnitz
+p650
+sg9
+VKim Manners
+p651
+sg11
+I00
+sg12
+V12.2
+p652
+sg14
+S'18.85'
+p653
+sg16
+V44 minutes
+p654
+sa(dp655
+g3
+VTerma (The X-Files)
+p656
+sg5
+V/wiki/Terma_(The_X-Files)
+p657
+sg7
+VChris Carter\u000aFrank Spotnitz
+p658
+sg9
+VRob Bowman
+p659
+sg11
+I00
+sg12
+V10.3
+p660
+sg14
+S'17.34'
+p661
+sg16
+V44 minutes
+p662
+sa(dp663
+g3
+VPaper Hearts
+p664
+sg5
+V/wiki/Paper_Hearts
+p665
+sg7
+VVince Gilligan
+p666
+sg9
+VRob Bowman
+p667
+sg11
+I01
+sg12
+I00
+sg14
+S'16.59'
+p668
+sg16
+V44 minutes
+p669
+sa(dp670
+g3
+VEl Mundo Gira
+p671
+sg5
+V/wiki/El_Mundo_Gira
+p672
+sg7
+VJohn Shiban
+p673
+sg9
+VTucker Gates
+p674
+sg11
+I01
+sg12
+V13.3
+p675
+sg14
+S'22.37'
+p676
+sg16
+V44 minutes
+p677
+sa(dp678
+g3
+VLeonard Betts
+p679
+sg5
+V/wiki/Leonard_Betts
+p680
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p681
+sg9
+VKim Manners
+p682
+sg11
+I01
+sg12
+V17.2
+p683
+sg14
+S'29.1'
+p684
+sg16
+V44 minutes[2]
+p685
+sa(dp686
+g3
+VNever Again (The X-Files)
+p687
+sg5
+V/wiki/Never_Again_(The_X-Files)
+p688
+sg7
+VGlen Morgan\u000aJames Wong
+p689
+sg9
+VRob Bowman
+p690
+sg11
+I01
+sg12
+V13
+p691
+sg14
+S'21.36'
+p692
+sg16
+V44 minutes
+p693
+sa(dp694
+g3
+VMemento Mori (The X-Files)
+p695
+sg5
+V/wiki/Memento_Mori_(The_X-Files)
+p696
+sg7
+VChris Carter\u000aVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p697
+sg9
+VRob Bowman
+p698
+sg11
+I00
+sg12
+V15.5
+p699
+sg14
+S'19.1'
+p700
+sg16
+V44 minutes
+p701
+sa(dp702
+g3
+VKaddish (The X-Files)
+p703
+sg5
+V/wiki/Kaddish_(The_X-Files)
+p704
+sg7
+VHoward Gordon
+p705
+sg9
+VKim Manners
+p706
+sg11
+I01
+sg12
+V10.3
+p707
+sg14
+S'16.56'
+p708
+sg16
+V44 minutes
+p709
+sa(dp710
+g3
+VUnrequited (The X-Files)
+p711
+sg5
+V/wiki/Unrequited_(The_X-Files)
+p712
+sg7
+Nsg9
+VMichael Lange
+p713
+sg11
+I01
+sg12
+V10.9
+p714
+sg14
+S'16.56'
+p715
+sg16
+V42 minutes
+p716
+sa(dp717
+g3
+VTempus Fugit (The X-Files)
+p718
+sg5
+V/wiki/Tempus_Fugit_(The_X-Files)
+p719
+sg7
+VChris Carter\u000aFrank Spotnitz
+p720
+sg9
+VRob Bowman
+p721
+sg11
+I00
+sg12
+V11.9
+p722
+sg14
+S'18.85'
+p723
+sg16
+V44 minutes
+p724
+sa(dp725
+g3
+VMax (The X-Files)
+p726
+sg5
+V/wiki/Max_(The_X-Files)
+p727
+sg7
+VChris Carter\u000aFrank Spotnitz
+p728
+sg9
+VKim Manners
+p729
+sg11
+I00
+sg12
+V11.6
+p730
+sg14
+S'18.34'
+p731
+sg16
+V44 minutes
+p732
+sa(dp733
+g3
+VSynchrony (The X-Files)
+p734
+sg5
+V/wiki/Synchrony_(The_X-Files)
+p735
+sg7
+VHoward Gordon\u000aDavid Greenwalt
+p736
+sg9
+VJames Charleston
+p737
+sg11
+I01
+sg12
+V11.3
+p738
+sg14
+S'18.09'
+p739
+sg16
+V43 minutes[2]
+p740
+sa(dp741
+g3
+VSmall Potatoes (The X-Files)
+p742
+sg5
+V/wiki/Small_Potatoes_(The_X-Files)
+p743
+sg7
+VVince Gilligan
+p744
+sg9
+VCliff Bole
+p745
+sg11
+I01
+sg12
+V13.0
+p746
+sg14
+S'20.86'
+p747
+sg16
+V44 minutes
+p748
+sa(dp749
+g3
+VZero Sum (The X-Files)
+p750
+sg5
+V/wiki/Zero_Sum_(The_X-Files)
+p751
+sg7
+VFrank Spotnitz\u000aHoward Gordon
+p752
+sg9
+VKim Manners
+p753
+sg11
+I00
+sg12
+V11.7
+p754
+sg14
+S'18.6'
+p755
+sg16
+V44 minutes
+p756
+sa(dp757
+g3
+VElegy (The X-Files)
+p758
+sg5
+V/wiki/Elegy_(The_X-Files)
+p759
+sg7
+VJohn Shiban
+p760
+sg9
+VJames Charleston
+p761
+sg11
+I01
+sg12
+V10.6
+p762
+sg14
+S'17.1'
+p763
+sg16
+V44 minutes
+p764
+sa(dp765
+g3
+VDemons (The X-Files)
+p766
+sg5
+V/wiki/Demons_(The_X-Files)
+p767
+sg7
+VR. W. Goodwin
+p768
+sg9
+VKim Manners
+p769
+sg11
+I00
+sg12
+V11.8
+p770
+sg14
+S'19.1'
+p771
+sg16
+V44 minutes
+p772
+sa(dp773
+g3
+VGethsemane (The X-Files)
+p774
+sg5
+V/wiki/Gethsemane_(The_X-Files)
+p775
+sg7
+VChris Carter
+p776
+sg9
+VR. W. Goodwin
+p777
+sg11
+I00
+sg12
+V13.2
+p778
+sg14
+S'19.85'
+p779
+sg16
+V44 minutes
+p780
+sasI5
+(lp781
+(dp782
+g3
+VRedux (The X-Files)
+p783
+sg5
+V/wiki/Redux_(The_X-Files)
+p784
+sg7
+VChris Carter
+p785
+sg9
+VR. W. Goodwin ("Redux")\u000aKim Manners ("Redux II")
+p786
+sg11
+I00
+sg12
+V16.1
+p787
+sg14
+S'27'
+p788
+sg16
+V44 minutes ("Redux")\u000a46 minutes ("Redux II")
+p789
+sa(dp790
+g3
+VRedux (The X-Files)
+p791
+sg5
+V/wiki/Redux_(The_X-Files)
+p792
+sg7
+VChris Carter
+p793
+sg9
+VR. W. Goodwin ("Redux")\u000aKim Manners ("Redux II")
+p794
+sg11
+I00
+sg12
+V16.1
+p795
+sg14
+S'27'
+p796
+sg16
+V44 minutes ("Redux")\u000a46 minutes ("Redux II")
+p797
+sa(dp798
+g3
+VUnusual Suspects
+p799
+sg5
+V/wiki/Unusual_Suspects
+p800
+sg7
+VVince Gilligan
+p801
+sg9
+VKim Manners
+p802
+sg11
+I00
+sg12
+V13.0
+p803
+sg14
+S'21.72'
+p804
+sg16
+V44 minutes
+p805
+sa(dp806
+g3
+VDetour (The X-Files)
+p807
+sg5
+V/wiki/Detour_(The_X-Files)
+p808
+sg7
+VFrank Spotnitz
+p809
+sg9
+VBrett Dowler
+p810
+sg11
+I01
+sg12
+V13.2
+p811
+sg14
+S'22.8'
+p812
+sg16
+V44 minutes
+p813
+sa(dp814
+g3
+VThe Post-Modern Prometheus
+p815
+sg5
+V/wiki/The_Post-Modern_Prometheus
+p816
+sg7
+VChris Carter
+p817
+sg9
+VChris Carter
+p818
+sg11
+I01
+sg12
+V11.5
+p819
+sg14
+S'18.68'
+p820
+sg16
+V46 minutes[2]
+p821
+sa(dp822
+g3
+VChristmas Carol (The X-Files)
+p823
+sg5
+V/wiki/Christmas_Carol_(The_X-Files)
+p824
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p825
+sg9
+VPeter Markle
+p826
+sg11
+I00
+sg12
+V12.8
+p827
+sg14
+S'20.91'
+p828
+sg16
+V45 minutes
+p829
+sa(dp830
+g3
+VEmily (The X-Files)
+p831
+sg5
+V/wiki/Emily_(The_X-Files)
+p832
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p833
+sg9
+VKim Manners
+p834
+sg11
+I00
+sg12
+V12.4
+p835
+sg14
+S'20.94'
+p836
+sg16
+V45 minutes
+p837
+sa(dp838
+g3
+VKitsunegari
+p839
+sg5
+V/wiki/Kitsunegari
+p840
+sg7
+VVince Gilligan\u000aTim Minear
+p841
+sg9
+VDaniel Sackheim
+p842
+sg11
+I00
+sg12
+V11.6
+p843
+sg14
+S'19.75'
+p844
+sg16
+V45 minutes
+p845
+sa(dp846
+g3
+VSchizogeny
+p847
+sg5
+V/wiki/Schizogeny
+p848
+sg7
+VJessica Scott\u000aMike Wollaeger
+p849
+sg9
+VRalph Hemecker
+p850
+sg11
+I01
+sg12
+V12.9
+p851
+sg14
+S'21.37'
+p852
+sg16
+V44 minutes
+p853
+sa(dp854
+g3
+VChinga (The X-Files)
+p855
+sg5
+V/wiki/Chinga_(The_X-Files)
+p856
+sg7
+VStephen King\u000aChris Carter
+p857
+sg9
+VKim Manners
+p858
+sg11
+I01
+sg12
+V12.8
+p859
+sg14
+S'21.33'
+p860
+sg16
+V44 minutes
+p861
+sa(dp862
+g3
+VKill Switch (The X-Files)
+p863
+sg5
+V/wiki/Kill_Switch_(The_X-Files)
+p864
+sg7
+VWilliam Gibson\u000aTom Maddox
+p865
+sg9
+VRob Bowman
+p866
+sg11
+I01
+sg12
+V11.1
+p867
+sg14
+S'18.04'
+p868
+sg16
+V45 minutes
+p869
+sa(dp870
+g3
+VBad Blood (The X-Files)
+p871
+sg5
+V/wiki/Bad_Blood_(The_X-Files)
+p872
+sg7
+VVince Gilligan
+p873
+sg9
+VCliff Bole
+p874
+sg11
+I01
+sg12
+V12.0
+p875
+sg14
+S'19.25'
+p876
+sg16
+V45 minutes
+p877
+sa(dp878
+g3
+VPatient X (The X-Files)
+p879
+sg5
+V/wiki/Patient_X_(The_X-Files)
+p880
+sg7
+VChris Carter\u000aFrank Spotnitz
+p881
+sg9
+VKim Manners
+p882
+sg11
+I00
+sg12
+V12.6
+p883
+sg14
+S'20.21'
+p884
+sg16
+V45 minutes
+p885
+sa(dp886
+g3
+VThe Red and the Black (The X-Files)
+p887
+sg5
+V/wiki/The_Red_and_the_Black_(The_X-Files)
+p888
+sg7
+VChris Carter\u000aFrank Spotnitz
+p889
+sg9
+VChris Carter
+p890
+sg11
+I00
+sg12
+V12.0
+p891
+sg14
+S'19.98'
+p892
+sg16
+V45 minutes
+p893
+sa(dp894
+g3
+VTravelers (The X-Files)
+p895
+sg5
+V/wiki/Travelers_(The_X-Files)
+p896
+sg7
+VJohn Shiban\u000aFrank Spotnitz
+p897
+sg9
+VWilliam A. Graham
+p898
+sg11
+I00
+sg12
+V9.9
+p899
+sg14
+S'15.06'
+p900
+sg16
+V45 minutes
+p901
+sa(dp902
+g3
+VMind's Eye (The X-Files)
+p903
+sg5
+V/wiki/Mind%27s_Eye_(The_X-Files)
+p904
+sg7
+VTim Minear
+p905
+sg9
+VKim Manners
+p906
+sg11
+I01
+sg12
+V10.4
+p907
+sg14
+S'16.53'
+p908
+sg16
+V45 minutes
+p909
+sa(dp910
+g3
+VAll Souls (The X-Files)
+p911
+sg5
+V/wiki/All_Souls_(The_X-Files)
+p912
+sg7
+Nsg9
+VAllen Coulter
+p913
+sg11
+I01
+sg12
+V8.5
+p914
+sg14
+S'13.44'
+p915
+sg16
+V45 minutes
+p916
+sa(dp917
+g3
+VThe Pine Bluff Variant
+p918
+sg5
+V/wiki/The_Pine_Bluff_Variant
+p919
+sg7
+VJohn Shiban
+p920
+sg9
+VRob Bowman
+p921
+sg11
+I01
+sg12
+V11.4
+p922
+sg14
+S'18.24'
+p923
+sg16
+V45 minutes
+p924
+sa(dp925
+g3
+VFolie à Deux (The X-Files)
+p926
+sg5
+V/wiki/Folie_%C3%A0_Deux_(The_X-Files)
+p927
+sg7
+VVince Gilligan
+p928
+sg9
+VKim Manners
+p929
+sg11
+I01
+sg12
+V11.0
+p930
+sg14
+S'17.63'
+p931
+sg16
+V45 minutes
+p932
+sa(dp933
+g3
+VThe End (The X-Files)
+p934
+sg5
+V/wiki/The_End_(The_X-Files)
+p935
+sg7
+VChris Carter
+p936
+sg9
+VR. W. Goodwin
+p937
+sg11
+I00
+sg12
+V11.9
+p938
+sg14
+S'18.76'
+p939
+sg16
+V46 minutes
+p940
+sasI6
+(lp941
+(dp942
+g3
+VThe Beginning (The X-Files)
+p943
+sg5
+V/wiki/The_Beginning_(The_X-Files)
+p944
+sg7
+VChris Carter
+p945
+sg9
+VKim Manners
+p946
+sg11
+I00
+sg12
+V11.9
+p947
+sg14
+S'20.34'
+p948
+sg16
+V45 minutes
+p949
+sa(dp950
+g3
+VDrive (The X-Files)
+p951
+sg5
+V/wiki/Drive_(The_X-Files)
+p952
+sg7
+VVince Gilligan
+p953
+sg9
+VRob Bowman
+p954
+sg11
+I01
+sg12
+V11.0
+p955
+sg14
+S'18.5'
+p956
+sg16
+V45 minutes
+p957
+sa(dp958
+g3
+VTriangle (The X-Files)
+p959
+sg5
+V/wiki/Triangle_(The_X-Files)
+p960
+sg7
+VChris Carter
+p961
+sg9
+VChris Carter
+p962
+sg11
+I01
+sg12
+V10.8
+p963
+sg14
+S'18.20'
+p964
+sg16
+V45 minutes[1]
+p965
+sa(dp966
+g3
+VDreamland (The X-Files)
+p967
+sg5
+V/wiki/Dreamland_(The_X-Files)
+p968
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p969
+sg9
+VKim Manners ("Dreamland")\u000aMichael Watkins ("Dreamland II")
+p970
+sg11
+I01
+sg12
+V10.1
+p971
+sg14
+S'17.48'
+p972
+sg16
+V45 minutes (per episode)
+p973
+sa(dp974
+g3
+VDreamland (The X-Files)
+p975
+sg5
+V/wiki/Dreamland_(The_X-Files)
+p976
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p977
+sg9
+VKim Manners ("Dreamland")\u000aMichael Watkins ("Dreamland II")
+p978
+sg11
+I01
+sg12
+V10.1
+p979
+sg14
+S'17.48'
+p980
+sg16
+V45 minutes (per episode)
+p981
+sa(dp982
+g3
+VHow the Ghosts Stole Christmas
+p983
+sg5
+V/wiki/How_the_Ghosts_Stole_Christmas
+p984
+sg7
+VChris Carter
+p985
+sg9
+VChris Carter
+p986
+sg11
+I01
+sg12
+V10.6
+p987
+sg14
+S'17.3'
+p988
+sg16
+V44 minutes
+p989
+sa(dp990
+g3
+VTerms of Endearment (The X-Files)
+p991
+sg5
+V/wiki/Terms_of_Endearment_(The_X-Files)
+p992
+sg7
+VDavid Amann
+p993
+sg9
+VRob Bowman
+p994
+sg11
+I01
+sg12
+V10.5
+p995
+sg14
+S'18.7'
+p996
+sg16
+V45 minutes[2]
+p997
+sa(dp998
+g3
+VThe Rain King
+p999
+sg5
+V/wiki/The_Rain_King
+p1000
+sg7
+VJeffrey Bell
+p1001
+sg9
+VKim Manners
+p1002
+sg11
+I01
+sg12
+V12.5
+p1003
+sg14
+S'21.2'
+p1004
+sg16
+V45 minutes
+p1005
+sa(dp1006
+g3
+VS.R. 819
+p1007
+sg5
+V/wiki/S.R._819
+p1008
+sg7
+VJohn Shiban
+p1009
+sg9
+VDaniel Sackheim
+p1010
+sg11
+I00
+sg12
+V9.1
+p1011
+sg14
+S'15.7'
+p1012
+sg16
+V45 minutes
+p1013
+sa(dp1014
+g3
+VTithonus (The X-Files)
+p1015
+sg5
+V/wiki/Tithonus_(The_X-Files)
+p1016
+sg7
+VVince Gilligan
+p1017
+sg9
+VMichael W. Watkins
+p1018
+sg11
+I01
+sg12
+V9.2
+p1019
+sg14
+S'15.90'
+p1020
+sg16
+V45 minutes
+p1021
+sa(dp1022
+g3
+VTwo Fathers
+p1023
+sg5
+V/wiki/Two_Fathers
+p1024
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1025
+sg9
+VKim Manners
+p1026
+sg11
+I00
+sg12
+V11.5
+p1027
+sg14
+S'18.81'
+p1028
+sg16
+V45 minutes
+p1029
+sa(dp1030
+g3
+VOne Son
+p1031
+sg5
+V/wiki/One_Son
+p1032
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1033
+sg9
+VRob Bowman
+p1034
+sg11
+I00
+sg12
+V10.1
+p1035
+sg14
+S'16.57'
+p1036
+sg16
+V45 minutes[2]
+p1037
+sa(dp1038
+g3
+VAgua Mala
+p1039
+sg5
+V/wiki/Agua_Mala
+p1040
+sg7
+VDavid Amann
+p1041
+sg9
+VRob Bowman
+p1042
+sg11
+I01
+sg12
+V10.1
+p1043
+sg14
+S'16.9'
+p1044
+sg16
+V44 minutes
+p1045
+sa(dp1046
+g3
+VMonday (The X-Files)
+p1047
+sg5
+V/wiki/Monday_(The_X-Files)
+p1048
+sg7
+VVince Gilligan\u000aJohn Shiban
+p1049
+sg9
+VKim Manners
+p1050
+sg11
+I01
+sg12
+V10.2
+p1051
+sg14
+S'16.7'
+p1052
+sg16
+V45 minutes
+p1053
+sa(dp1054
+g3
+VArcadia (The X-Files)
+p1055
+sg5
+V/wiki/Arcadia_(The_X-Files)
+p1056
+sg7
+VDaniel Arkin
+p1057
+sg9
+VMichael Watkins
+p1058
+sg11
+I01
+sg12
+V10.5
+p1059
+sg14
+S'17.91'
+p1060
+sg16
+V45 minutes
+p1061
+sa(dp1062
+g3
+VAlpha (The X-Files)
+p1063
+sg5
+V/wiki/Alpha_(The_X-Files)
+p1064
+sg7
+VJeffrey Bell
+p1065
+sg9
+VPeter Markle
+p1066
+sg11
+I01
+sg12
+V10.1
+p1067
+sg14
+S'17.7'
+p1068
+sg16
+V45 minutes
+p1069
+sa(dp1070
+g3
+VTrevor (The X-Files)
+p1071
+sg5
+V/wiki/Trevor_(The_X-Files)
+p1072
+sg7
+VJim Guttridge\u000aKen Hawryliw
+p1073
+sg9
+VRob Bowman
+p1074
+sg11
+I01
+sg12
+V10.4
+p1075
+sg14
+S'17.6'
+p1076
+sg16
+V45 minutes
+p1077
+sa(dp1078
+g3
+VMilagro (The X-Files)
+p1079
+sg5
+V/wiki/Milagro_(The_X-Files)
+p1080
+sg7
+Nsg9
+VKim Manners
+p1081
+sg11
+I01
+sg12
+g271
+sg14
+S'15.2'
+p1082
+sg16
+V45 minutes[2]
+p1083
+sa(dp1084
+g3
+VThe Unnatural (The X-Files)
+p1085
+sg5
+V/wiki/The_Unnatural_(The_X-Files)
+p1086
+sg7
+VDavid Duchovny
+p1087
+sg9
+VDavid Duchovny
+p1088
+sg11
+I01
+sg12
+V10.1
+p1089
+sg14
+S'16.88'
+p1090
+sg16
+V45 minutes[2]
+p1091
+sa(dp1092
+g3
+VThree of a Kind (The X-Files)
+p1093
+sg5
+V/wiki/Three_of_a_Kind_(The_X-Files)
+p1094
+sg7
+VVince Gilligan\u000aJohn Shiban
+p1095
+sg9
+VBryan Spicer
+p1096
+sg11
+I01
+sg12
+V8.2
+p1097
+sg14
+S'12.9'
+p1098
+sg16
+V45 minutes
+p1099
+sa(dp1100
+g3
+VField Trip (The X-Files)
+p1101
+sg5
+V/wiki/Field_Trip_(The_X-Files)
+p1102
+sg7
+Nsg9
+VKim Manners
+p1103
+sg11
+I01
+sg12
+V9.5
+p1104
+sg14
+S'15.40'
+p1105
+sg16
+V45 minutes
+p1106
+sa(dp1107
+g3
+VBiogenesis (The X-Files)
+p1108
+sg5
+V/wiki/Biogenesis_(The_X-Files)
+p1109
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1110
+sg9
+VRob Bowman
+p1111
+sg11
+I00
+sg12
+V9.4
+p1112
+sg14
+S'15.86'
+p1113
+sg16
+V45 minutes
+p1114
+sasI7
+(lp1115
+(dp1116
+g3
+VThe Sixth Extinction (The X-Files)
+p1117
+sg5
+V/wiki/The_Sixth_Extinction_(The_X-Files)
+p1118
+sg7
+VChris Carter
+p1119
+sg9
+VKim Manners
+p1120
+sg11
+I00
+sg12
+V10.6
+p1121
+sg14
+S'17.82'
+p1122
+sg16
+V44 minutes
+p1123
+sa(dp1124
+g3
+VThe Sixth Extinction II: Amor Fati
+p1125
+sg5
+V/wiki/The_Sixth_Extinction_II:_Amor_Fati
+p1126
+sg7
+VDavid Duchovny\u000aChris Carter
+p1127
+sg9
+VMichael Watkins
+p1128
+sg11
+I00
+sg12
+V10.1
+p1129
+sg14
+S'16.15'
+p1130
+sg16
+V44 minutes[2]
+p1131
+sa(dp1132
+g3
+VHungry (The X-Files)
+p1133
+sg5
+V/wiki/Hungry_(The_X-Files)
+p1134
+sg7
+VVince Gilligan
+p1135
+sg9
+VKim Manners
+p1136
+sg11
+I01
+sg12
+V9.6
+p1137
+sg14
+S'16.17'
+p1138
+sg16
+V44 minutes
+p1139
+sa(dp1140
+g3
+VMillennium (The X-Files)
+p1141
+sg5
+V/wiki/Millennium_(The_X-Files)
+p1142
+sg7
+VVince Gilligan\u000aFrank Spotnitz
+p1143
+sg9
+VThomas J. Wright
+p1144
+sg11
+I01
+sg12
+V9.1
+p1145
+sg14
+S'15.09'
+p1146
+sg16
+V44 minutes[2]
+p1147
+sa(dp1148
+g3
+VRush (The X-Files)
+p1149
+sg5
+V/wiki/Rush_(The_X-Files)
+p1150
+sg7
+VDavid Amann
+p1151
+sg9
+VRobert Lieberman
+p1152
+sg11
+I01
+sg12
+V7.9
+p1153
+sg14
+S'12.71'
+p1154
+sg16
+V44 minutes
+p1155
+sa(dp1156
+g3
+VThe Goldberg Variation (The X-Files)
+p1157
+sg5
+V/wiki/The_Goldberg_Variation_(The_X-Files)
+p1158
+sg7
+VJeffrey Bell
+p1159
+sg9
+VThomas J. Wright
+p1160
+sg11
+I01
+sg12
+V8.8
+p1161
+sg14
+S'14.49'
+p1162
+sg16
+V44 minutes 17 seconds
+p1163
+sa(dp1164
+g3
+VOrison (The X-Files)
+p1165
+sg5
+V/wiki/Orison_(The_X-Files)
+p1166
+sg7
+VChip Johannessen
+p1167
+sg9
+VRob Bowman
+p1168
+sg11
+I01
+sg12
+V9.4
+p1169
+sg14
+S'15.63'
+p1170
+sg16
+V44 minutes
+p1171
+sa(dp1172
+g3
+VThe Amazing Maleeni
+p1173
+sg5
+V/wiki/The_Amazing_Maleeni
+p1174
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p1175
+sg9
+VThomas J. Wright
+p1176
+sg11
+I01
+sg12
+V9.4
+p1177
+sg14
+S'16.18'
+p1178
+sg16
+V44 minutes
+p1179
+sa(dp1180
+g3
+VSigns and Wonders (The X-Files)
+p1181
+sg5
+V/wiki/Signs_and_Wonders_(The_X-Files)
+p1182
+sg7
+VJeffrey Bell
+p1183
+sg9
+VKim Manners
+p1184
+sg11
+I01
+sg12
+V8.5
+p1185
+sg14
+S'13.86'
+p1186
+sg16
+V44 minutes
+p1187
+sa(dp1188
+g3
+VSein und Zeit (The X-Files)
+p1189
+sg5
+V/wiki/Sein_und_Zeit_(The_X-Files)
+p1190
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1191
+sg9
+VMichael Watkins
+p1192
+sg11
+I01
+sg12
+V8.4
+p1193
+sg14
+S'13.95'
+p1194
+sg16
+V44 minutes
+p1195
+sa(dp1196
+g3
+VClosure (The X-Files)
+p1197
+sg5
+V/wiki/Closure_(The_X-Files)
+p1198
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1199
+sg9
+VKim Manners
+p1200
+sg11
+I00
+sg12
+V9.1
+p1201
+sg14
+S'15.35'
+p1202
+sg16
+V44 minutes[2]
+p1203
+sa(dp1204
+g3
+VX-Cops (The X-Files)
+p1205
+sg5
+V/wiki/X-Cops_(The_X-Files)
+p1206
+sg7
+VVince Gilligan
+p1207
+sg9
+VMichael Watkins
+p1208
+sg11
+I01
+sg12
+V9.7
+p1209
+sg14
+S'16.56'
+p1210
+sg16
+V44 minutes[2]
+p1211
+sa(dp1212
+g3
+VFirst Person Shooter (The X-Files)
+p1213
+sg5
+V/wiki/First_Person_Shooter_(The_X-Files)
+p1214
+sg7
+VWilliam Gibson\u000aTom Maddox
+p1215
+sg9
+VChris Carter
+p1216
+sg11
+I01
+sg12
+V9.3
+p1217
+sg14
+S'15.31'
+p1218
+sg16
+V44 minutes
+p1219
+sa(dp1220
+g3
+VTheef
+p1221
+sg5
+V/wiki/Theef
+p1222
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p1223
+sg9
+VKim Manners
+p1224
+sg11
+I01
+sg12
+V7.4
+p1225
+sg14
+S'11.91'
+p1226
+sg16
+V44 minutes
+p1227
+sa(dp1228
+g3
+VEn Ami
+p1229
+sg5
+V/wiki/En_Ami
+p1230
+sg7
+VWilliam B. Davis
+p1231
+sg9
+VRob Bowman
+p1232
+sg11
+I00
+sg12
+V7.5
+p1233
+sg14
+S'11.99'
+p1234
+sg16
+V44 minutes
+p1235
+sa(dp1236
+g3
+VChimera (The X-Files)
+p1237
+sg5
+V/wiki/Chimera_(The_X-Files)
+p1238
+sg7
+VDavid Amann
+p1239
+sg9
+VCliff Bole
+p1240
+sg11
+I01
+sg12
+V7.5
+p1241
+sg14
+S'12.89'
+p1242
+sg16
+V44 minutes
+p1243
+sa(dp1244
+g3
+VAll things
+p1245
+sg5
+V/wiki/All_things
+p1246
+sg7
+VGillian Anderson
+p1247
+sg9
+VGillian Anderson
+p1248
+sg11
+I01
+sg12
+V7.1.
+p1249
+sg14
+S'12.18'
+p1250
+sg16
+V45 minutes[2]
+p1251
+sa(dp1252
+g3
+VBrand X (The X-Files)
+p1253
+sg5
+V/wiki/Brand_X_(The_X-Files)
+p1254
+sg7
+VSteven Maeda\u000aGreg Walker
+p1255
+sg9
+VKim Manners
+p1256
+sg11
+I01
+sg12
+V6.8
+p1257
+sg14
+S'10.81'
+p1258
+sg16
+V44 minutes
+p1259
+sa(dp1260
+g3
+VHollywood A.D.
+p1261
+sg5
+V/wiki/Hollywood_A.D.
+p1262
+sg7
+VDavid Duchovny
+p1263
+sg9
+VDavid Duchovny
+p1264
+sg11
+I01
+sg12
+V7.7
+p1265
+sg14
+S'12.88'
+p1266
+sg16
+V44 minutes
+p1267
+sa(dp1268
+g3
+VFight Club (The X-Files)
+p1269
+sg5
+V/wiki/Fight_Club_(The_X-Files)
+p1270
+sg7
+VChris Carter
+p1271
+sg9
+VPaul Shapiro
+p1272
+sg11
+I01
+sg12
+V6.9
+p1273
+sg14
+S'11.70'
+p1274
+sg16
+V44 minutes
+p1275
+sa(dp1276
+g3
+VJe Souhaite
+p1277
+sg5
+V/wiki/Je_Souhaite
+p1278
+sg7
+VVince Gilligan
+p1279
+sg9
+VVince Gilligan
+p1280
+sg11
+I01
+sg12
+V8.2
+p1281
+sg14
+S'12.79'
+p1282
+sg16
+V44 minutes
+p1283
+sa(dp1284
+g3
+VRequiem (The X-Files)
+p1285
+sg5
+V/wiki/Requiem_(The_X-Files)
+p1286
+sg7
+VChris Carter
+p1287
+sg9
+VKim Manners
+p1288
+sg11
+I00
+sg12
+V8.9
+p1289
+sg14
+S'15.26'
+p1290
+sg16
+V44 minutes[2]
+p1291
+sasI8
+(lp1292
+(dp1293
+g3
+VWithin (The X-Files)
+p1294
+sg5
+V/wiki/Within_(The_X-Files)
+p1295
+sg7
+VChris Carter
+p1296
+sg9
+VKim Manners
+p1297
+sg11
+I00
+sg12
+V9.5
+p1298
+sg14
+S'15.87'
+p1299
+sg16
+V44 minutes[2]
+p1300
+sa(dp1301
+g3
+VWithout (The X-Files)
+p1302
+sg5
+V/wiki/Without_(The_X-Files)
+p1303
+sg7
+VChris Carter
+p1304
+sg9
+VKim Manners
+p1305
+sg11
+I00
+sg12
+V9.0
+p1306
+sg14
+S'15.1'
+p1307
+sg16
+V44 minutes
+p1308
+sa(dp1309
+g3
+VPatience (The X-Files)
+p1310
+sg5
+V/wiki/Patience_(The_X-Files)
+p1311
+sg7
+VChris Carter
+p1312
+sg9
+VChris Carter
+p1313
+sg11
+I01
+sg12
+V8.2
+p1314
+sg14
+S'13.3'
+p1315
+sg16
+V44 minutes
+p1316
+sa(dp1317
+g3
+VRoadrunners (The X-Files)
+p1318
+sg5
+V/wiki/Roadrunners_(The_X-Files)
+p1319
+sg7
+VVince Gilligan
+p1320
+sg9
+VRod Hardy
+p1321
+sg11
+I01
+sg12
+V8.3
+p1322
+sg14
+S'13.6'
+p1323
+sg16
+V44 minutes
+p1324
+sa(dp1325
+g3
+VInvocation (The X-Files)
+p1326
+sg5
+V/wiki/Invocation_(The_X-Files)
+p1327
+sg7
+VDavid Amann
+p1328
+sg9
+VRichard Compton
+p1329
+sg11
+I01
+sg12
+V8.2
+p1330
+sg14
+S'13.9'
+p1331
+sg16
+V44 minutes
+p1332
+sa(dp1333
+g3
+VRedrum (The X-Files)
+p1334
+sg5
+V/wiki/Redrum_(The_X-Files)
+p1335
+sg7
+Nsg9
+VPeter Markle
+p1336
+sg11
+I01
+sg12
+V8.1
+p1337
+sg14
+S'13.2'
+p1338
+sg16
+V44 minutes
+p1339
+sa(dp1340
+g3
+VVia Negativa (The X-Files)
+p1341
+sg5
+V/wiki/Via_Negativa_(The_X-Files)
+p1342
+sg7
+VFrank Spotnitz
+p1343
+sg9
+VTony Wharmby
+p1344
+sg11
+I01
+sg12
+V7.3
+p1345
+sg14
+S'12.37'
+p1346
+sg16
+V44 minutes
+p1347
+sa(dp1348
+g3
+VSurekill
+p1349
+sg5
+V/wiki/Surekill
+p1350
+sg7
+VGreg Walker
+p1351
+sg9
+VTerrence O'Hara
+p1352
+sg11
+I01
+sg12
+V8.0
+p1353
+sg14
+S'13.3'
+p1354
+sg16
+V44 minutes
+p1355
+sa(dp1356
+g3
+VSalvage (The X-Files)
+p1357
+sg5
+V/wiki/Salvage_(The_X-Files)
+p1358
+sg7
+VJeffrey Bell
+p1359
+sg9
+VRod Hardy
+p1360
+sg11
+I01
+sg12
+V7.1
+p1361
+sg14
+S'11.7'
+p1362
+sg16
+V44 minutes
+p1363
+sa(dp1364
+g3
+VBadlaa
+p1365
+sg5
+V/wiki/Badlaa
+p1366
+sg7
+VJohn Shiban
+p1367
+sg9
+VTony Wharmby
+p1368
+sg11
+I01
+sg12
+V7.3
+p1369
+sg14
+S'11.8'
+p1370
+sg16
+V44 minutes
+p1371
+sa(dp1372
+g3
+VThe Gift (The X-Files)
+p1373
+sg5
+V/wiki/The_Gift_(The_X-Files)
+p1374
+sg7
+VFrank Spotnitz
+p1375
+sg9
+VKim Manners
+p1376
+sg11
+I01
+sg12
+V8.8
+p1377
+sg14
+S'14.6'
+p1378
+sg16
+V44 minutes[2]
+p1379
+sa(dp1380
+g3
+VMedusa (The X-Files)
+p1381
+sg5
+V/wiki/Medusa_(The_X-Files)
+p1382
+sg7
+VFrank Spotnitz
+p1383
+sg9
+VRichard Compton
+p1384
+sg11
+I01
+sg12
+V8.2
+p1385
+sg14
+S'13.8'
+p1386
+sg16
+V44 minutes
+p1387
+sa(dp1388
+g3
+VPer Manum
+p1389
+sg5
+V/wiki/Per_Manum
+p1390
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1391
+sg9
+VKim Manners
+p1392
+sg11
+I00
+sg12
+V9.4
+p1393
+sg14
+S'9.61'
+p1394
+sg16
+V44 minutes
+p1395
+sa(dp1396
+g3
+VThis Is Not Happening
+p1397
+sg5
+V/wiki/This_Is_Not_Happening
+p1398
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1399
+sg9
+VKim Manners
+p1400
+sg11
+I00
+sg12
+V9.7
+p1401
+sg14
+S'16.9'
+p1402
+sg16
+V44 minutes
+p1403
+sa(dp1404
+g3
+VDeadalive
+p1405
+sg5
+V/wiki/Deadalive
+p1406
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1407
+sg9
+VTony Wharmby
+p1408
+sg11
+I00
+sg12
+V7.3
+p1409
+sg14
+S'12.4'
+p1410
+sg16
+V44 minutes[2]
+p1411
+sa(dp1412
+g3
+VThree Words (The X-Files)
+p1413
+sg5
+V/wiki/Three_Words_(The_X-Files)
+p1414
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1415
+sg9
+VTony Wharmby
+p1416
+sg11
+I00
+sg12
+V7.6
+p1417
+sg14
+S'7.77'
+p1418
+sg16
+V44 minutes
+p1419
+sa(dp1420
+g3
+VEmpedocles (The X-Files)
+p1421
+sg5
+V/wiki/Empedocles_(The_X-Files)
+p1422
+sg7
+VGreg Walker
+p1423
+sg9
+VBarry K. Thomas
+p1424
+sg11
+I01
+sg12
+V7.3
+p1425
+sg14
+S'7.46'
+p1426
+sg16
+V44 minutes
+p1427
+sa(dp1428
+g3
+VVienen
+p1429
+sg5
+V/wiki/Vienen
+p1430
+sg7
+VSteven Maeda
+p1431
+sg9
+VRod Hardy
+p1432
+sg11
+I00
+sg12
+V7.4
+p1433
+sg14
+S'11.8'
+p1434
+sg16
+V44 minutes[2]
+p1435
+sa(dp1436
+g3
+VAlone (The X-Files)
+p1437
+sg5
+V/wiki/Alone_(The_X-Files)
+p1438
+sg7
+VFrank Spotnitz
+p1439
+sg9
+VFrank Spotnitz
+p1440
+sg11
+I01
+sg12
+V7.5
+p1441
+sg14
+S'12.7'
+p1442
+sg16
+V44 minutes
+p1443
+sa(dp1444
+g3
+VEssence (The X-Files)
+p1445
+sg5
+V/wiki/Essence_(The_X-Files)
+p1446
+sg7
+VChris Carter
+p1447
+sg9
+VKim Manners
+p1448
+sg11
+I00
+sg12
+V7.7
+p1449
+sg14
+S'12.8'
+p1450
+sg16
+V44 minutes
+p1451
+sa(dp1452
+g3
+VExistence (The X-Files)
+p1453
+sg5
+V/wiki/Existence_(The_X-Files)
+p1454
+sg7
+VChris Carter
+p1455
+sg9
+VKim Manners
+p1456
+sg11
+I00
+sg12
+V8.4
+p1457
+sg14
+S'8.58'
+p1458
+sg16
+V44 minutes
+p1459
+sasI9
+(lp1460
+(dp1461
+g3
+VNothing Important Happened Today
+p1462
+sg5
+V/wiki/Nothing_Important_Happened_Today
+p1463
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1464
+sg9
+VKim Manners\u000aTony Wharmby
+p1465
+sg11
+I00
+sg12
+V6.5
+p1466
+sg14
+S'10.6'
+p1467
+sg16
+V44 minutes (per episode)
+p1468
+sa(dp1469
+g3
+VNothing Important Happened Today
+p1470
+sg5
+V/wiki/Nothing_Important_Happened_Today
+p1471
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1472
+sg9
+VKim Manners\u000aTony Wharmby
+p1473
+sg11
+I00
+sg12
+V6.5
+p1474
+sg14
+S'10.6'
+p1475
+sg16
+V44 minutes (per episode)
+p1476
+sa(dp1477
+g3
+VDæmonicus
+p1478
+sg5
+V/wiki/D%C3%A6monicus
+p1479
+sg7
+VFrank Spotnitz
+p1480
+sg9
+VFrank Spotnitz
+p1481
+sg11
+I01
+sg12
+V5.5
+p1482
+sg14
+S'5.80'
+p1483
+sg16
+V44 minutes
+p1484
+sa(dp1485
+g3
+V4-D (The X-Files)
+p1486
+sg5
+V/wiki/4-D_(The_X-Files)
+p1487
+sg7
+VSteven Maeda
+p1488
+sg9
+VTony Wharmby
+p1489
+sg11
+I01
+sg12
+V5.1
+p1490
+sg14
+S'5.38'
+p1491
+sg16
+V44 minutes
+p1492
+sa(dp1493
+g3
+VLord of the Flies (The X-Files)
+p1494
+sg5
+V/wiki/Lord_of_the_Flies_(The_X-Files)
+p1495
+sg7
+VThomas Schnauz
+p1496
+sg9
+VKim Manners
+p1497
+sg11
+I01
+sg12
+V6.2
+p1498
+sg14
+S'9.9'
+p1499
+sg16
+V44 minutes
+p1500
+sa(dp1501
+g3
+VTrust No 1
+p1502
+sg5
+V/wiki/Trust_No_1
+p1503
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1504
+sg9
+VTony Wharmby
+p1505
+sg11
+I00
+sg12
+V5.1
+p1506
+sg14
+S'8.4'
+p1507
+sg16
+V44 minutes
+p1508
+sa(dp1509
+g3
+VJohn Doe (The X-Files)
+p1510
+sg5
+V/wiki/John_Doe_(The_X-Files)
+p1511
+sg7
+VVince Gilligan
+p1512
+sg9
+VMichelle MacLaren
+p1513
+sg11
+I01
+sg12
+V5.0
+p1514
+sg14
+S'5.28'
+p1515
+sg16
+V44 minutes
+p1516
+sa(dp1517
+g3
+VHellbound (The X-Files)
+p1518
+sg5
+V/wiki/Hellbound_(The_X-Files)
+p1519
+sg7
+VDavid Amann
+p1520
+sg9
+VKim Manners
+p1521
+sg11
+I01
+sg12
+V5.1
+p1522
+sg14
+S'7.8'
+p1523
+sg16
+V44 minutes
+p1524
+sa(dp1525
+g3
+VProvenance (The X-Files)
+p1526
+sg5
+V/wiki/Provenance_(The_X-Files)
+p1527
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1528
+sg9
+VKim Manners
+p1529
+sg11
+I00
+sg12
+V5.5
+p1530
+sg14
+S'5.8'
+p1531
+sg16
+V44 minutes
+p1532
+sa(dp1533
+g3
+VProvidence (The X-Files)
+p1534
+sg5
+V/wiki/Providence_(The_X-Files)
+p1535
+sg7
+VChris Carter\u000aFrank Spotnitz
+p1536
+sg9
+VChris Carter
+p1537
+sg11
+I00
+sg12
+V5.2
+p1538
+sg14
+S'8.4'
+p1539
+sg16
+V44 minutes
+p1540
+sa(dp1541
+g3
+VAudrey Pauley
+p1542
+sg5
+V/wiki/Audrey_Pauley
+p1543
+sg7
+VSteven Maeda
+p1544
+sg9
+VKim Manners
+p1545
+sg11
+I01
+sg12
+V4.8
+p1546
+sg14
+S'8'
+p1547
+sg16
+V44 minutes
+p1548
+sa(dp1549
+g3
+VUnderneath (The X-Files)
+p1550
+sg5
+V/wiki/Underneath_(The_X-Files)
+p1551
+sg7
+VJohn Shiban
+p1552
+sg9
+VJohn Shiban
+p1553
+sg11
+I01
+sg12
+V4.4
+p1554
+sg14
+S'4.64'
+p1555
+sg16
+V44 minutes
+p1556
+sa(dp1557
+g3
+VImprobable (The X-Files)
+p1558
+sg5
+V/wiki/Improbable_(The_X-Files)
+p1559
+sg7
+VChris Carter
+p1560
+sg9
+VChris Carter
+p1561
+sg11
+I01
+sg12
+V5.1
+p1562
+sg14
+S'9.1'
+p1563
+sg16
+V44 minutes
+p1564
+sa(dp1565
+g3
+VScary Monsters (The X-Files)
+p1566
+sg5
+V/wiki/Scary_Monsters_(The_X-Files)
+p1567
+sg7
+VThomas Schnauz
+p1568
+sg9
+VDwight H. Little
+p1569
+sg11
+I01
+sg12
+V5.1
+p1570
+sg14
+S'8.2'
+p1571
+sg16
+V43 minutes
+p1572
+sa(dp1573
+g3
+VJump the Shark (The X-Files)
+p1574
+sg5
+V/wiki/Jump_the_Shark_(The_X-Files)
+p1575
+sg7
+VVince Gilligan\u000aJohn Shiban\u000aFrank Spotnitz
+p1576
+sg9
+VCliff Bole
+p1577
+sg11
+I01
+sg12
+V5.1
+p1578
+sg14
+S'8.6'
+p1579
+sg16
+V44 minutes
+p1580
+sa(dp1581
+g3
+VWilliam (The X-Files)
+p1582
+sg5
+V/wiki/William_(The_X-Files)
+p1583
+sg7
+Nsg9
+VDavid Duchovny
+p1584
+sg11
+I00
+sg12
+V5.8
+p1585
+sg14
+S'6.1'
+p1586
+sg16
+V44 minutes
+p1587
+sa(dp1588
+g3
+VRelease (The X-Files)
+p1589
+sg5
+V/wiki/Release_(The_X-Files)
+p1590
+sg7
+Nsg9
+VKim Manners
+p1591
+sg11
+I00
+sg12
+V5.1
+p1592
+sg14
+S'5.38'
+p1593
+sg16
+V44 minutes
+p1594
+sa(dp1595
+g3
+VSunshine Days
+p1596
+sg5
+V/wiki/Sunshine_Days
+p1597
+sg7
+VVince Gilligan
+p1598
+sg9
+VVince Gilligan
+p1599
+sg11
+I01
+sg12
+V6.2
+p1600
+sg14
+S'6.5'
+p1601
+sg16
+V44 minutes
+p1602
+sa(dp1603
+g3
+VThe Truth (The X-Files)
+p1604
+sg5
+V/wiki/The_Truth_(The_X-Files)
+p1605
+sg7
+VChris Carter
+p1606
+sg9
+VKim Manners
+p1607
+sg11
+I00
+sg12
+V7.5
+p1608
+sg14
+S'13.25'
+p1609
+sg16
+V87 minutes[2]
+p1610
+sasI10
+(lp1611
+(dp1612
+g3
+VMy Struggle (The X-Files)
+p1613
+sg5
+V/wiki/My_Struggle_(The_X-Files)
+p1614
+sg7
+VChris Carter
+p1615
+sg9
+VChris Carter
+p1616
+sg11
+I00
+sg12
+V18
+p1617
+sg14
+S'16.19'
+p1618
+sg16
+V44 minutes
+p1619
+sa(dp1620
+g3
+VFounder's Mutation
+p1621
+sg5
+V/wiki/Founder%27s_Mutation
+p1622
+sg7
+VJames Wong
+p1623
+sg9
+VJames Wong
+p1624
+sg11
+I00
+sg12
+V18
+p1625
+sg14
+S'9.67'
+p1626
+sg16
+V44 minutes
+p1627
+sa(dp1628
+g3
+VMulder and Scully Meet the Were-Monster
+p1629
+sg5
+V/wiki/Mulder_and_Scully_Meet_the_Were-Monster
+p1630
+sg7
+VDarin Morgan
+p1631
+sg9
+VDarin Morgan
+p1632
+sg11
+I01
+sg12
+V18
+p1633
+sg14
+S'8.37'
+p1634
+sg16
+V44 minutes
+p1635
+sa(dp1636
+g3
+VHome Again (The X-Files)
+p1637
+sg5
+V/wiki/Home_Again_(The_X-Files)
+p1638
+sg7
+VGlen Morgan
+p1639
+sg9
+VGlen Morgan
+p1640
+sg11
+I00
+sg12
+I00
+sg14
+S'8.31'
+p1641
+sg16
+V44 minutes
+p1642
+sa(dp1643
+g3
+VBabylon (The X-Files)
+p1644
+sg5
+V/wiki/Babylon_(The_X-Files)
+p1645
+sg7
+VChris Carter
+p1646
+sg9
+VChris Carter
+p1647
+sg11
+I00
+sg12
+I00
+sg14
+S'7.07'
+p1648
+sg16
+V44 minutes
+p1649
+sa(dp1650
+g3
+VMy Struggle II
+p1651
+sg5
+V/wiki/My_Struggle_II
+p1652
+sg7
+Nsg9
+VChris Carter
+p1653
+sg11
+I00
+sg12
+I00
+sg14
+S'7.60'
+p1654
+sg16
+V43 minutes
+p1655
+sas.
